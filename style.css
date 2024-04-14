@@ -69,7 +69,7 @@ h1{
     justify-content: space-around;
 }
 #img-second{
-    background-image: url(/IMG/Image.png);
+    background-image: url(FINRISE/IMG/Image.png);
     width: 354.25px;
     height: 354.25px;
 }
@@ -106,7 +106,7 @@ h3{
 }
 #water{
     background-color: white;
-    background-image: url(/IMG/Man\ waters\ a\ money\ tree.png);
+    background-image: url(FINRISE/IMG/Man\ waters\ a\ money\ tree.png);
     width: 365px;
     height: 365px;
     border-radius: 30px;
@@ -163,7 +163,7 @@ video{
     font-size: 30px;
 }
 #cash{
-    background-image: url(/IMG/cash.png);
+    background-image: url(FINRISE/IMG/cash.png);
     width: 456px;
     height: 322px;
 }
