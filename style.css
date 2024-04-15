@@ -217,7 +217,13 @@ footer{
     }
     #second-section{
         flex-direction: column;
-        
+        border-radius: 10px; 
+    }
+    header{
+        border-radius: 10px;
+    }
+    #third-section, #fifth-section{
+        border-radius: 10px;
     }
     #first-section{
         flex-direction: column;
@@ -264,6 +270,7 @@ footer{
     }
     footer{
         flex-direction: column;
+        border-radius: 10px;
     }
 }
 @media screen and (max-width: 500px) {
